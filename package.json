@@ -1,0 +1,19 @@
+{
+  "name": "14-internet-store",
+  "version": "1.0.0",
+  "description": "Internet-store for tranee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ice-by/Internet-store.git"
+  },
+  "author": "Alexandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ice-by/Internet-store/issues"
+  },
+  "homepage": "https://github.com/Ice-by/Internet-store#readme"
+}
